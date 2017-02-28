@@ -1,1 +1,1 @@
-# Machine-Learning-Code-for-Amazon-Product-Reviews-Project
+# This repository contains machine learning codes used in my Amazon Product Reviews Project!
